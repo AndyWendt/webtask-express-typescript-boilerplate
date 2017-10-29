@@ -1,0 +1,9 @@
+# secrets
+.env
+
+# modules and ide
+.idea
+node_modules
+
+# compiled files
+*.js
